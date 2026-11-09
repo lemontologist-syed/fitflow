@@ -1,0 +1,5 @@
+# Used only by the Supabase CLI (optional). The function authorizes every
+# route itself (cron secret, user token or receipt token), so the platform
+# JWT check is turned off.
+[functions.fitflow]
+verify_jwt = false
