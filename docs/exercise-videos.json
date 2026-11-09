@@ -1,0 +1,154 @@
+{
+  "_readme": "FitFlow exercise video links. Edit on GitHub to replace a dead link: set url to https://www.youtube.com/watch?v=... or set the entry to null to use a YouTube search instead. Only youtube.com / youtu.be links are used.",
+  "checked": "2026-11-09: every url returned HTTP 200 from YouTube oEmbed with a title naming the exercise; entries with url null open a YouTube search",
+  "videos": {
+    "squat": {
+      "url": "https://www.youtube.com/watch?v=l83R5PblSMA",
+      "title": "Leg exercise - How to bodyweight squat",
+      "channel": "PureGym"
+    },
+    "chair-squat": {
+      "url": "https://www.youtube.com/watch?v=OViE2ghEop0",
+      "title": "How to do a chair squat",
+      "channel": "MassGeneralHospital"
+    },
+    "pushup": {
+      "url": "https://www.youtube.com/watch?v=WDIpL0pjun0",
+      "title": "How to do a Push-Up | Proper Form & Technique | NASM",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    },
+    "incline-pushup": {
+      "url": "https://www.youtube.com/watch?v=Gvm5Q29UHbk",
+      "title": "How to do an Incline Push-Up",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    },
+    "reverse-lunge": {
+      "url": "https://www.youtube.com/watch?v=C_P3Q-PssvY",
+      "title": "How To Do A Reverse Lunge | The Right Way | Well+Good",
+      "channel": "Well+Good"
+    },
+    "assisted-lunge": {
+      "url": "https://www.youtube.com/watch?v=0jjr1o_yexQ",
+      "title": "Hand Assisted Split Squat",
+      "channel": "E3 Rehab Exercise Library"
+    },
+    "glute-bridge": {
+      "url": "https://www.youtube.com/watch?v=wPM8icPu6H8",
+      "title": "How To Do A Glute Bridge | The Right Way | Well+Good",
+      "channel": "Well+Good"
+    },
+    "short-bridge": {
+      "url": "https://www.youtube.com/watch?v=nuapk_-Q2BI",
+      "title": "How To Do A Glute Bridge | Step By Step Instruction For Beginners",
+      "channel": "Dr. Carl Baird"
+    },
+    "mountain-climber": {
+      "url": "https://www.youtube.com/watch?v=cnyTQDSE884",
+      "title": "How to Do Mountain Climbers | The Right Way | Well+Good",
+      "channel": "Well+Good"
+    },
+    "slow-climber": null,
+    "plank": {
+      "url": "https://www.youtube.com/watch?v=mH5Sfb_KTGg",
+      "title": "How to do a Forearm Plank | The Right Way | Well+Good",
+      "channel": "Well+Good"
+    },
+    "knee-plank": {
+      "url": "https://www.youtube.com/watch?v=iDSHokfXqyA",
+      "title": "How To Plank From Knee (Modified Plank)",
+      "channel": "PureGym"
+    },
+    "jumping-jack": {
+      "url": "https://www.youtube.com/watch?v=uLVt6u15L98",
+      "title": "How to do a Jumping Jack | Proper Form & Technique | NASM",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    },
+    "step-jack": {
+      "url": null,
+      "search": "low impact step jack exercise"
+    },
+    "high-knees": {
+      "url": "https://www.youtube.com/watch?v=sTvekaq6vOU",
+      "title": "How To Do High Knees",
+      "channel": "PureGym"
+    },
+    "march": {
+      "url": "https://www.youtube.com/watch?v=9wl_AiNhYP0",
+      "title": "How to march on the spot",
+      "channel": "Rehab My Patient"
+    },
+    "skater": {
+      "url": "https://www.youtube.com/watch?v=9_jLW6VkU8A",
+      "title": "Speed Skaters Exercise (Skater Hops): Proper Form",
+      "channel": "BuiltLean"
+    },
+    "side-tap": {
+      "url": null,
+      "search": "step touch low impact exercise"
+    },
+    "burpee": {
+      "url": "https://www.youtube.com/watch?v=qLBImHhCXSw",
+      "title": "How To Do A Burpee | The Right Way | Well+Good",
+      "channel": "Well+Good"
+    },
+    "step-burpee": {
+      "url": null,
+      "search": "step back burpee no jump exercise"
+    },
+    "warm-march": {
+      "url": "https://www.youtube.com/watch?v=9wl_AiNhYP0",
+      "title": "How to march on the spot",
+      "channel": "Rehab My Patient"
+    },
+    "arm-circles": {
+      "url": "https://www.youtube.com/watch?v=UVMEnIaY8aU",
+      "title": "Arm Circles Exercise",
+      "channel": "Sworkit"
+    },
+    "hip-circles": {
+      "url": "https://www.youtube.com/watch?v=qkrJXGVj_OQ",
+      "title": "Warm-up Exercise - Hip Circles",
+      "channel": "Live to Move Physical Therapy & Wellness"
+    },
+    "hip-hinge": {
+      "url": "https://www.youtube.com/watch?v=2W_gXhut5S8",
+      "title": "How to Do a Hip Hinge: A Guide from Physical Therapists",
+      "channel": "Hinge Health"
+    },
+    "leg-swings": {
+      "url": "https://www.youtube.com/watch?v=difYoBtZi2s",
+      "title": "How To Do Leg Swings",
+      "channel": "PureGym"
+    },
+    "quad-stretch": {
+      "url": "https://www.youtube.com/watch?v=2_pr9-LDUSQ",
+      "title": "How to Do the Standing Quad Stretch",
+      "channel": "LIVESTRONG"
+    },
+    "hamstring-stretch": {
+      "url": "https://www.youtube.com/watch?v=5f5aHVj-f9Q",
+      "title": "How to Do a Standing Hamstring Stretch: A Guide from Physical Therapists",
+      "channel": "Hinge Health"
+    },
+    "hip-flexor-stretch": {
+      "url": "https://www.youtube.com/watch?v=34SlL-PPCWQ",
+      "title": "Kneeling Hip Flexor Stretch",
+      "channel": "MGHOrthopaedics"
+    },
+    "chest-stretch": {
+      "url": "https://www.youtube.com/watch?v=B9uY01NoqBg",
+      "title": "Doorway Stretch",
+      "channel": "Baptist Health"
+    },
+    "childs-pose": {
+      "url": "https://www.youtube.com/watch?v=_ZX_zTOBgp8",
+      "title": "How to do a Child's Pose Stretch | Proper Form & Technique | NASM",
+      "channel": "National Academy of Sports Medicine (NASM)"
+    },
+    "breathing": {
+      "url": "https://www.youtube.com/watch?v=Mg2ar-7_HfA",
+      "title": "Diaphragmatic breathing",
+      "channel": "NewYork-Presbyterian Hospital"
+    }
+  }
+}
