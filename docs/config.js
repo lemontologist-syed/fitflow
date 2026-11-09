@@ -5,10 +5,10 @@
 // Leave them empty to use FitFlow in local-only mode (no sync, no push).
 window.FITFLOW_CONFIG = {
   // Supabase Dashboard -> Project Settings -> Data API / API -> Project URL
-  supabaseUrl: "",
+  supabaseUrl: "https://eurnciwpclethbghuvwq.supabase.co",
   // Supabase Dashboard -> Project Settings -> API Keys -> Publishable key (sb_publishable_...)
   // (the legacy "anon public" key also works)
-  supabaseAnonKey: "",
+  supabaseAnonKey: "sb_publishable_vFeVv9HsHqzraW7vbjOsIA_is1s8Ry9",
   // The PUBLIC key printed by GENERATE_KEYS.bat
-  vapidPublicKey: "",
+  vapidPublicKey: "BE39KvojreHWlMZmzCtUJqRliQbP2aauFPfFxPIJO1VdYzUtmIL9LOfiiQk_G2uk69w6ICYtxJsAoN0ddhCFgDg",
 };
