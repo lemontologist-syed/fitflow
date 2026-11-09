@@ -1,0 +1,39 @@
+{
+  "name": "fitflow",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node scripts/postbuild.mjs",
+    "preview": "node scripts/serve.mjs",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "typecheck": "tsc --noEmit",
+    "keys": "node scripts/generate-keys.mjs",
+    "bundle:function": "node scripts/bundle-function.mjs",
+    "icons": "python scripts/make_icons.py"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.0",
+    "lucide-react": "^1.70.0",
+    "next": "16.4.5",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.15",
+    "@playwright/test": "^1.65.0",
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "http_ece": "^1.2.1",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^5.1.0"
+  },
+  "description": "FitFlow: personal fitness, diet and daily-reminder PWA for iPhone Safari",
+  "engines": {
+    "node": ">=20.9"
+  }
+}
